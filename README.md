@@ -94,6 +94,7 @@ You can also choose not to include these pages, by simple deleting the `privacyp
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
 - [Original Project](https://github.com/emilbaehr/automatic-app-landing-page)
+- [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 
 ## License
 [MIT License](LICENSE)
