@@ -95,8 +95,5 @@ You can also choose not to include these pages, by simple deleting the `privacyp
 - [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
 - [Original Project](https://github.com/emilbaehr/automatic-app-landing-page)
 
-## Author
-[Emil Baehr](https://emilbaehr.com/)
-
 ## License
 [MIT License](LICENSE)
