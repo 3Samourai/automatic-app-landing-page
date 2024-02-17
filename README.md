@@ -17,10 +17,9 @@ Designed for GitHub Pages for super easy set up.
 
 ✅ Site becomes live at GitHub Pages repository URL, e.g. `https://your-username.github.io/your-repo-name/`.
 
-<img src="https://emilbaehr.com/files/jayson1.png" width="440"> <img src="https://emilbaehr.com/files/slor1.png" width="440">
-
-
-
+## New:
+- 🏷️ SEO tag
+- 👾 Bug Fix
 
 ## Quick Start
 
@@ -52,8 +51,8 @@ Things you can customise in `_config.yml`:
 - Your Name / Company Name
 - Link to Website
 - Social Links and Contact Info
+- SEO (Search Engine Optimization)
 - Feature List (Title, text, icon)
-
 
 
 ### Step 3: Add screenshot or video
@@ -79,7 +78,6 @@ The videos and screenshots must have one of the following resolutions:
 - 1242x2688
 
 
-
 ### Step 4: Edit (or remove) Privacy Policy and Changelog
 Your site automatically includes pages for a Privacy Policy and a Changelog. Change the content of these pages by editing the `privacypolicy.md` and `CHANGELOG.md` files in the `_pages` directory.
 
@@ -92,19 +90,10 @@ If you need to, you can create additional markdown based pages just by creating 
 You can also choose not to include these pages, by simple deleting the `privacypolicy.md` and `CHANGELOG.md` files.
 
 
-
-
-## Feedback
-If you have feedback regarding bugs or improvements, open an issue, @ me on Twitter or write me an email. You can find my contact info on my website.
-
-I'd love to see the sites you create using this little tool.
-
 ## Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
-
-## Donations
-[Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
+- [Original Project](https://github.com/emilbaehr/automatic-app-landing-page)
 
 ## Author
 [Emil Baehr](https://emilbaehr.com/)
